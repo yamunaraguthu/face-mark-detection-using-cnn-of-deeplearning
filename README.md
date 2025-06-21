@@ -1,1 +1,1 @@
-# face-mark-detection-using-cnn-of-deeplearning
+# face-mask-detection-using-cnn-of-deeplearning
